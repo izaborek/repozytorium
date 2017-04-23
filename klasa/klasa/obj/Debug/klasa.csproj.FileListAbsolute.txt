@@ -1,0 +1,6 @@
+c:\users\toshiba\documents\visual studio 2015\Projects\klasa\klasa\bin\Debug\klasa.exe.config
+c:\users\toshiba\documents\visual studio 2015\Projects\klasa\klasa\bin\Debug\klasa.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\klasa\klasa\bin\Debug\klasa.pdb
+c:\users\toshiba\documents\visual studio 2015\Projects\klasa\klasa\obj\Debug\klasa.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2015\Projects\klasa\klasa\obj\Debug\klasa.exe
+c:\users\toshiba\documents\visual studio 2015\Projects\klasa\klasa\obj\Debug\klasa.pdb
